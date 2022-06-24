@@ -1,5 +1,5 @@
 const contractAddress = "0xb7B784E2ad13FCd1Bb9D5adD94a388AE06D1B05d"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'fantom'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Donk Poets Society!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
